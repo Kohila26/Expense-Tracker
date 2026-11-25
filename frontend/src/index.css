@@ -1,0 +1,23 @@
+
+body {
+    background-color: #f4f6f9;
+    font-family: Arial, sans-serif;
+}
+
+h2 {
+    font-weight: bold;
+    color: #212529;
+}
+
+.card {
+    border: none;
+    border-radius: 12px;
+}
+
+.table {
+    vertical-align: middle;
+}
+
+button {
+    border-radius: 6px !important;
+}
